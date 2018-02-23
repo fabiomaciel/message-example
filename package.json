@@ -1,0 +1,13 @@
+{
+  "name": "socket-message-example",
+  "version": "0.0.1",
+  "description": "message app",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ioredis": "^3.2.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
