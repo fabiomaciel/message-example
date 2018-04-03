@@ -2,7 +2,7 @@
 
 This is the source code for a very simple message system using nodejs and socket.io
 
-There are 2 versions, bot using redis to store socket.io client id,
+There are 2 versions, both using redis to store socket.io client id,
 
 single.js runs standalone, and it's not scalable.
 
